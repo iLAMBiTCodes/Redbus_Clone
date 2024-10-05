@@ -760,6 +760,9 @@ footer > div:nth-last-child(2) {
     gap: 2rem;
 }
 
+.area a {
+    cursor: pointer;
+}
 .area h3{
     font-size: 1.25rem;
     font-weight: 700;
